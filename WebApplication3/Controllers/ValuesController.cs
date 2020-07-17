@@ -15,7 +15,7 @@ namespace WebApplication3.Controllers
 
         public IEnumerable<string> Get()
         {
-            return new string[] { "Anjali" };
+            return new string[] { "Anjali","Joshi" };
         }
     }
 }
